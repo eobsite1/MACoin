@@ -1,2 +1,2 @@
 # MACoin
-trust based coin tied to mac addresses
+git cho hadz of ma coin
